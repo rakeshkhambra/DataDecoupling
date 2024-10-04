@@ -4,6 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Rrerequisites: 
 a) Angular CLI: 18.2.5
+
 b) Node version: 22.0.0
 
 ## Development server
