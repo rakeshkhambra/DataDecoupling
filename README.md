@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.5
 
-## Rrerequisites: 
+## Prerequisites
 a) Angular CLI: 18.2.5
 
 b) Node version: 22.0.0
