@@ -18,7 +18,7 @@ a) To get more help on the Angular CLI use `ng help` or go check out the [Angula
 b) To get more help on the json-server npm package, visit https://github.com/typicode/json-server
 
 
-**Please see the screenshots below of the App:** 
+## Please see the screenshots below of the App: 
 
 **Manage Users:**
 
