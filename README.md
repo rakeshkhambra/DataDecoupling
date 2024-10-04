@@ -17,4 +17,4 @@ b) Run `ng serve` for Angular app and navigate to `http://localhost:4200/`. The 
 ## Further help
 a) To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 
-b) To get more help on the json-server npm package, visit the https://github.com/typicode/json-server
+b) To get more help on the json-server npm package, visit https://github.com/typicode/json-server
