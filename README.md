@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/754c405c-4120-4c43-8426-75f975bf3244)# ClientApp
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.5
 
 ## Prerequisites
