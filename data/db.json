@@ -1,0 +1,234 @@
+{
+  "users": [
+    {
+      "FirstName": "Ashok",
+      "LastName": "Kumar",
+      "City": "Pune",
+      "State": "Maharashtra",
+      "PinCode": "343434",
+      "id": "536d"
+    },
+    {
+      "FirstName": "Rakesh",
+      "LastName": "Kumar",
+      "City": "Pune",
+      "State": "Maharashtra",
+      "PinCode": "122007",
+      "id": "c4ec"
+    },
+    {
+      "id": "a362",
+      "FirstName": "Sandeep",
+      "LastName": "Kumar",
+      "City": "Gurgaon",
+      "State": "Haryana",
+      "PinCode": "122009"
+    },
+    {
+      "id": "91c9",
+      "FirstName": "Himanshu",
+      "LastName": "Singh",
+      "City": "Alwar",
+      "State": "Rajasthan",
+      "PinCode": "122033"
+    },
+    {
+      "id": "8aef",
+      "FirstName": "Yuvaraj",
+      "LastName": "Patil",
+      "City": "Pune",
+      "State": "Maharashtra",
+      "PinCode": "212000"
+    },
+    {
+      "id": "6996",
+      "FirstName": "Surjeet",
+      "LastName": "Yadav",
+      "City": "Pune",
+      "State": "Maharashtra",
+      "PinCode": "223232"
+    }
+  ],
+  "states": [
+    {
+      "Code": "AN",
+      "Name": "Andaman and Nicobar Islands",
+      "id": "a239"
+    },
+    {
+      "Code": "AP",
+      "Name": "Andhra Pradesh",
+      "id": "7d7f"
+    },
+    {
+      "Code": "AR",
+      "Name": "Arunachal Pradesh",
+      "id": "ded0"
+    },
+    {
+      "Code": "AS",
+      "Name": "Assam",
+      "id": "2f65"
+    },
+    {
+      "Code": "BR",
+      "Name": "Bihar",
+      "id": "517d"
+    },
+    {
+      "Code": "CG",
+      "Name": "Chandigarh",
+      "id": "e728"
+    },
+    {
+      "Code": "CH",
+      "Name": "Chhattisgarh",
+      "id": "015e"
+    },
+    {
+      "Code": "DH",
+      "Name": "Dadra and Nagar Haveli",
+      "id": "f2f2"
+    },
+    {
+      "Code": "DD",
+      "Name": "Daman and Diu",
+      "id": "57ba"
+    },
+    {
+      "Code": "DL",
+      "Name": "Delhi",
+      "id": "6dcd"
+    },
+    {
+      "Code": "GA",
+      "Name": "Goa",
+      "id": "84c0"
+    },
+    {
+      "Code": "GJ",
+      "Name": "Gujarat",
+      "id": "d2cb"
+    },
+    {
+      "Code": "HR",
+      "Name": "Haryana",
+      "id": "79ec"
+    },
+    {
+      "Code": "HP",
+      "Name": "Himachal Pradesh",
+      "id": "bda7"
+    },
+    {
+      "Code": "JK",
+      "Name": "Jammu and Kashmir",
+      "id": "cd9e"
+    },
+    {
+      "Code": "JH",
+      "Name": "Jharkhand",
+      "id": "2c2c"
+    },
+    {
+      "Code": "KA",
+      "Name": "Karnataka",
+      "id": "3ba7"
+    },
+    {
+      "Code": "KL",
+      "Name": "Kerala",
+      "id": "fc23"
+    },
+    {
+      "Code": "LD",
+      "Name": "Lakshadweep",
+      "id": "3b1b"
+    },
+    {
+      "Code": "MP",
+      "Name": "Madhya Pradesh",
+      "id": "b28d"
+    },
+    {
+      "Code": "MH",
+      "Name": "Maharashtra",
+      "id": "f725"
+    },
+    {
+      "Code": "MN",
+      "Name": "Manipur",
+      "id": "c15d"
+    },
+    {
+      "Code": "ML",
+      "Name": "Meghalaya",
+      "id": "9579"
+    },
+    {
+      "Code": "MZ",
+      "Name": "Mizoram",
+      "id": "2f3a"
+    },
+    {
+      "Code": "NL",
+      "Name": "Nagaland",
+      "id": "cd12"
+    },
+    {
+      "Code": "OR",
+      "Name": "Odisha",
+      "id": "3eea"
+    },
+    {
+      "Code": "PY",
+      "Name": "Puducherry",
+      "id": "01a3"
+    },
+    {
+      "Code": "PB",
+      "Name": "Punjab",
+      "id": "32b0"
+    },
+    {
+      "Code": "RJ",
+      "Name": "Rajasthan",
+      "id": "ee6c"
+    },
+    {
+      "Code": "SK",
+      "Name": "Sikkim",
+      "id": "1db1"
+    },
+    {
+      "Code": "TN",
+      "Name": "Tamil Nadu",
+      "id": "fb55"
+    },
+    {
+      "Code": "TS",
+      "Name": "Telangana",
+      "id": "0d6a"
+    },
+    {
+      "Code": "TR",
+      "Name": "Tripura",
+      "id": "5a4e"
+    },
+    {
+      "Code": "UK",
+      "Name": "Uttar Pradesh",
+      "id": "3deb"
+    },
+    {
+      "Code": "UP",
+      "Name": "Uttarakhand",
+      "id": "6615"
+    },
+    {
+      "Code": "WB",
+      "Name": "West Bengal",
+      "id": "04c9"
+    }
+  ]
+}
